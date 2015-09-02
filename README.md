@@ -2,7 +2,7 @@ rally-customization2
 =========================
 
 ## Overview
-
+This app produces all the user stories in the rally along with their details in a grid view and the contents are editable.
 
 ## License
 
